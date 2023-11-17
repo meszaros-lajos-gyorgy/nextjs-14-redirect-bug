@@ -2,6 +2,8 @@
 
 A minimal demonstration of redirect() inside a server action can't switch between root layouts in next.js 14
 
+Corresponding issue report: https://github.com/vercel/next.js/issues/58263
+
 ## Scenario 1
 
 1. start the development server with `npm run dev`
