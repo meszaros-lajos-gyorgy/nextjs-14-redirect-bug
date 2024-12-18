@@ -1,5 +1,11 @@
 # nextjs-14-redirect-bug
 
+**FIXED in next@15.1.0**
+
+Was fixed in this PR: https://github.com/vercel/next.js/pull/73063
+
+---
+
 A minimal demonstration of redirect() inside a server action can't switch between root layouts in next.js 14
 
 Corresponding issue report: https://github.com/vercel/next.js/issues/58263
